@@ -1,5 +1,8 @@
-site_name: Dao Zheng's blog
+site_name: 道正的博客
 pages:
-  - Home: index.md
-  - About: about.md
-theme: readthedocs
+  - 首页: index.md
+  - 人脸: 
+    - 人脸数据: face/faceDataSet.md
+    - 人脸进展及论文: face/facePapers.md
+  - 关于: about.md
+theme: bootstrap
