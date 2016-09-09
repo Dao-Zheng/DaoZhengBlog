@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "index.md\n\n\nAn index to my codebase. Some Repos are listed twice for completeness\n\n\n\n\nW\n - Working\n\n\nN\n - Not Working\n\n\nP\n - In Progress\n\n\nX\n - Some Issues (mostly working)\n\n\n\n\nU\n - Un-started (placeholder)\n\n\n\n\n\n\nA\n - All (Android,iOS)\n\n\n\n\nD\n - Android\n\n\nI\n - iOS\n\n\nO\n - Other (Arduino,Linux,*BSD, as listed)", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#indexmd", 
+            "text": "An index to my codebase. Some Repos are listed twice for completeness   W  - Working  N  - Not Working  P  - In Progress  X  - Some Issues (mostly working)   U  - Un-started (placeholder)    A  - All (Android,iOS)   D  - Android  I  - iOS  O  - Other (Arduino,Linux,*BSD, as listed)", 
+            "title": "index.md"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "ABOUT.md", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#aboutmd", 
+            "text": "", 
+            "title": "ABOUT.md"
+        }
+    ]
+}
